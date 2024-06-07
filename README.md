@@ -6,8 +6,10 @@ Dork king is for make your google dorking easssssssy!
 
 # How to install
 
-clone the repositories `git clone https://github.com/GameOfCode64/dork-King`
+1, clone the repositories `git clone https://github.com/GameOfCode64/dork-King`
+<br />
 go to `cd dork-king`
+<br />
 install requirements `pip3 install -r requirements.txt`
 
 # How to use
